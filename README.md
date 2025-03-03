@@ -10,10 +10,6 @@
 </div>
 
 <br>
-
-Created by [Sakamochanq](https://github.com/Sakamochanq)
-
-<br>
 <br>
 
 <h2>Themes</h2>
