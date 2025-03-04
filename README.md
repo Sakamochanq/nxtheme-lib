@@ -35,8 +35,6 @@ Copy the folder containing the downloaded `*.nxtheme` to the Themes folder in CF
 sdmc:/themes/*.nxtheme
 ```
 
-<br>
-
 <h3>Remote Install</h3>
 
 Download [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector/releases/tag/v4.7.1)
@@ -54,9 +52,9 @@ SwitchThemes.exe install 192.168.X.X "*.nxtheme"
 
 For more information
 
-> [Atomsphere-NX](https://github.com/Atmosphere-NX/Atmosphere)  
+* [Atomsphere-NX](https://github.com/Atmosphere-NX/Atmosphere)  
 
-> [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector/)
+* [Switch Theme Injector](https://github.com/exelix11/SwitchThemeInjector/)
 
 <br>
 
