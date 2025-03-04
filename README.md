@@ -1,12 +1,17 @@
 <div align="center">
     <h1>NXTheme-lib</h1>
     <div align="left">
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sakamochanq/nxtheme-lib">
+        <br>
         This is a custom Nintendo Switch theme I created.  
         <br>
         I share some of them here.  
         <br>
         They are free to download and use.  
+        <br>
+        You can star me if you like. ★
     </div>
+
 </div>
 
 <br>
