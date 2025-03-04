@@ -18,7 +18,9 @@
 
 | Name | Logo (1280x720) | Download |
 | :----: | :----: | :----: |
-| Sample | <a href="#"><img src="./lib/Sample/Logo.png" width="500"></a> | [Download](https:example.com) |
+| Phosphophyllite | <a href="#"><img src="./lib/NX_Phosphophyllite/Logo.png" width="500"></a> | [Download](./lib/NX_Phosphophyllite/themes/) |
+| Makima | <a href="#"><img src="./lib/NX_Makima/Logo.png" width="500"></a> | [Download](./lib/NX_Makima/themes/) |
+| UguisuAnko | <a href="#"><img src="./lib/NX_UguisuAnko/Logo.png" width="500"></a> | [Download](./lib/NX_UguisuAnko/themes/) |
 
 <br>
 <br>
