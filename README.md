@@ -16,7 +16,7 @@
 
 <br>
 
-| Name | Logo | Download |
+| Name | Logo (1280x720) | Download |
 | :----: | :----: | :----: |
 | Sample | <a href="#"><img src="./lib/Sample/Logo.png" width="500"></a> | [Download](https:example.com) |
 
