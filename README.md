@@ -2,9 +2,9 @@
     <h1>nxtheme-lib</h1>
     <div align="left">
 <!--         <img alt="stars" src="https://img.shields.io/github/stars/Sakamochanq/nxtheme-lib"> -->
-        <img alt="license" src="https://img.shields.io/github/license/Sakamochanq/nxtheme-lib">
+<!--         <img alt="license" src="https://img.shields.io/github/license/Sakamochanq/nxtheme-lib"> -->
         <img alt="issues" src="https://img.shields.io/github/issues/Sakamochanq/nxtheme-lib">
-        <img alt="last-commit" src="https://img.shields.io/github/last-commit/Sakamochanq/nxtheme-lib">
+<!--         <img alt="last-commit" src="https://img.shields.io/github/last-commit/Sakamochanq/nxtheme-lib"> -->
         <br>
         <br>
         This is a custom Nintendo Switch theme I created.  
