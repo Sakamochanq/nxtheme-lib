@@ -18,6 +18,17 @@
 </div>
 
 <br>
+
+<h2>Switch 20.1.5 version ⚠️</h2>
+¯\(°_o)/¯
+<br>
+The json layout is broken due to the 20.1.5 update.
+<br>
+All custom themes distributed here are affected.
+<br>
+We will fix this eventually.
+
+<br>
 <br>
 
 <h2>Themes</h2>
