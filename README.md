@@ -11,9 +11,7 @@
         <br>
         I share some of them here.  
         <br>
-        They are free to download and use.  
-        <br>
-        You can star me if you like. ★
+        They are free to download and use.
     </div>
 </div>
 
